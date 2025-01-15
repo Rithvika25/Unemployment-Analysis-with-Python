@@ -1,1 +1,3 @@
 # Unemployment-Analysis-with-Python
+
+It is a data science project designed to provide a comprehensive exploration of unemployment rates, one of the most critical indicators of economic health. The project focuses on analyzing the challenges posed by the COVID-19 pandemic, which had a profound impact on global and regional employment levels. By leveraging Python for data analysis and visualization, this project aims to uncover trends, identify key factors influencing unemployment, and provide actionable insights. The findings can guide policymakers, businesses, and researchers in understanding and addressing unemployment challenges more effectively.
